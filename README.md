@@ -1,7 +1,6 @@
 # Lernen in Spielen: Wann Hedge kreist, springt oder chaotisch wird – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-lernen-spiele-chaos-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-lernen-spiele-chaos-demo.streamlit.app/)**
 
 Stück der Linie **Dynamische Systeme** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Es setzt die Stücke zu Periodenverdopplung (logistische Abbildung), Lyapunov-Exponent und Gleitkomma-Chaos voraus und ist die Gegenseite zu [noregret-demo](https://github.com/sebastian-hanisch/noregret-demo) (Kante `fix`): Deren README lässt Grenzzyklen und Chaos bei großer Schrittweite ausdrücklich offen (gelesen am 2026-11-14), die Demo zeigt Hedge nur dort, wo er konvergiert. Dieses Stück fährt die Schrittweite über die Schwelle und misst, was dann passiert. Verwandte Stücke der Linie: [logistische-abbildung-demo](https://github.com/sebastian-hanisch/logistische-abbildung-demo), [lyapunov-chaos-demo](https://github.com/sebastian-hanisch/lyapunov-chaos-demo), [gleitkomma-chaos-demo](https://github.com/sebastian-hanisch/gleitkomma-chaos-demo), [lager-chaos-demo](https://github.com/sebastian-hanisch/lager-chaos-demo).
 
